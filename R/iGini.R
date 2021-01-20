@@ -1,5 +1,5 @@
-### R program for computing iGini decomposision
-### Version 1.0, February 2020
+### R program for computing iGini decomposition
+### Version 1.0.2, January 2021
 ### Tim Liao, University of Illinois
 
 iGini <- function(x,g,w=rep(1,length(x)),core=1)

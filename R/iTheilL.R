@@ -1,5 +1,5 @@
-### R program for computing Thei's L individual decomposision
-### Version 1.0, February 2020
+### R program for computing Thei's L individual decomposition
+### Version 1.0.2, January 2021
 ### Tim Liao, University of Illinois
 
 iTheilL <- function(x,g,w=rep(1,length(x)))

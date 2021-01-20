@@ -34,5 +34,5 @@ iTheilT.result <- iTheilT(weight,Diet)
 }
 
 \references{
-Tim F. Liao. Forthcoming. "Individual Components of Three Inequality Measures for Analyzing Shapes of Inequality.” \emph{Sociological Methods & Research} 50:xxx–xxx. doi: https://doi.org/10.1177/0049124119875961
+Tim F. Liao. 2019. "Individual Components of Three Inequality Measures for Analyzing Shapes of Inequality.” \emph{Sociological Methods & Research} Advance online publication. doi:10.1177/0049124119875961
 }
